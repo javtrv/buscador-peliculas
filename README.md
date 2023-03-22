@@ -1,6 +1,4 @@
-apikey=b79cedc9
 
-// https://www.omdbapi.com/?s=Harry&apikey=b79cedc9
 
 
 Enunciado
